@@ -408,7 +408,7 @@ color: #2e2f42;
     
 }
 
-.container.footer.container{
+.container.footer-container{
     display: flex;
     align-items: baseline;
 }
